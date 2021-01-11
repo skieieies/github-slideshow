@@ -2,5 +2,5 @@
 layout: slide
 title: “Welcome to our second slide!”
 ---
-Your test
+> 夏でも底に冷たさをもつ青いそら、
 Use the left arrow to go back!
